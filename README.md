@@ -2,7 +2,7 @@
 ## Images
 
 
-<img align="center" alt="GIF" src="./images/profileImg.jpg" width="100%" height="350" />
+
 <img align="center" alt="GIF" src="./images/plansImg.jpg" width="100%" height="350" />
 <img align="center" alt="GIF" src="./images/paymentImg.jpg" width="100%" height="350" />
 <img align="center" alt="GIF" src="./images/Home3.jpg" width="100%" height="350" />
